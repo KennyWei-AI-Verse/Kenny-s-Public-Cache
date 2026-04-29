@@ -2,7 +2,7 @@
 name: skill-freeze-thaw-advisor
 description: Lightweight advisor for managing AI agent skills in a freeze/thaw workflow. Use when the user asks which skills should stay active, which skills can be disabled, whether a task needs a specific skill, or when they want reminders to temporarily enable a skill and disable it again after the task.
 version: "1.0.0"
-author: "Kenny's OpenClaw"
+author: "OpenClaw User"
 ---
 
 # Skill Freeze/Thaw Advisor
